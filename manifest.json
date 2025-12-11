@@ -1,0 +1,12 @@
+{
+  "name": "Pocket Calculator",
+  "short_name": "Calc",
+"start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#222",
+  "theme_color": "#333",
+  "icons": [
+    {"src": "calcAndroid.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "calciphone.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
